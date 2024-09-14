@@ -4,4 +4,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sya0521)](https://solved.ac/{handle})
 
 
-CISE in CUK :3
+내 기록장!
